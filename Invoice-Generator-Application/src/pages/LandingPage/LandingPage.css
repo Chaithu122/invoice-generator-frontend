@@ -1,9 +1,18 @@
 
-.hero-section {
+/*.hero-section {
    
     background: linear-gradient(rgba(13, 110, 253, 0.80), rgba(13, 110, 253, 0.70)),
     url('[https://placehold.co/1920x1080/495057/dee2e6?text=Modern+Digital+Workspace](https://placehold.co/1920x1080/495057/dee2e6?text=Modern+Digital+Workspace)') no-repeat center center;
     background-size: cover;
+    color: #ffffff;
+}*/
+.hero-section {
+    background:
+    linear-gradient(rgba(13, 110, 253, 0.80), rgba(13, 110, 253, 0.70)),
+    url("https://placehold.co/1920x1080/495057/dee2e6?text=Modern+Digital+Workspace");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: #ffffff;
 }
 
