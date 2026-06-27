@@ -24,7 +24,7 @@ export const AppContextProvider=({children})=>{
     const[invoiceData,setInvoiceData]=useState(initialInvoiceData)
     const[selectedTemplate,setSelectedTemplate]=useState("template1")
 
-    const baseURL = "http://localhost:7000/api"
+    const baseURL = "https://invoice-generator-backend-production-fc42.up.railway.app/api"
         const contextValue={
         invoiceTitle,setInvoiceTitle,
         invoiceData,setInvoiceData,
