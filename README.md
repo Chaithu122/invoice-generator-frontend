@@ -13,7 +13,6 @@ For deployment, the frontend is hosted on **Netlify**, while the backend and MyS
 
 This project demonstrates full-stack web development skills, including frontend development, backend API development, authentication and authorization, database management, RESTful API integration, and cloud deployment using modern technologies.
 
-
 ### ✨ Features
 - 🔐 Secure user authentication using **Clerk Authentication**
 - 📝 Create and manage professional invoices
