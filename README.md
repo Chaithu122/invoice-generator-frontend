@@ -192,7 +192,8 @@ invoice-generator-frontend/
 │── README.md
 ```
 
-## 👨‍💻 Author
+
+### 👨‍💻 Author
 
 **Pigilapu Krishna Chaithanya**
 
