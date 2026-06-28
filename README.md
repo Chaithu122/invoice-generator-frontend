@@ -74,4 +74,6 @@ Click the link above to explore the application.
 
 Sign up with your own email account or use Clerk authentication to log in and start creating invoices.
 
+## 📸 Screenshots
+
 
