@@ -29,4 +29,4 @@ This project demonstrates full-stack web development skills, including frontend 
 - 📱 Fully responsive user interface
 - ☁️ Cloud deployment using **Netlify** and **Railway**
 
-  ## 🛠️ Tech Stack
+  ### 🛠️ Tech Stack
