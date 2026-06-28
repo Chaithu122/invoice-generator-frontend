@@ -173,6 +173,24 @@ The application will be available at:
 http://localhost:5173
 ```
 
+## 📁 Project Structure
+
+```
+invoice-generator-frontend/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   ├── context/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── main.jsx
+│── .env
+│── package.json
+│── vite.config.js
+│── README.md
+```
+
 
 
 
