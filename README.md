@@ -192,6 +192,16 @@ invoice-generator-frontend/
 │── README.md
 ```
 
+## 👨‍💻 Author
+
+**Pigilapu Krishna Chaithanya**
+
+Java Full Stack Developer
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- 💻 GitHub: https://github.com/Chaithu122
+
 
 
 
