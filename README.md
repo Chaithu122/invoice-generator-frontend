@@ -28,3 +28,5 @@ This project demonstrates full-stack web development skills, including frontend 
 - 🔒 Secure REST APIs using **Spring Security** and JWT Authentication
 - 📱 Fully responsive user interface
 - ☁️ Cloud deployment using **Netlify** and **Railway**
+
+  ## 🛠️ Tech Stack
