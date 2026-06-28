@@ -70,4 +70,8 @@ This project demonstrates full-stack web development skills, including frontend 
 
 Click the link above to explore the application.
 
+### Test Credentials
+
+Sign up with your own email account or use Clerk authentication to log in and start creating invoices.
+
 
