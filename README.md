@@ -12,3 +12,5 @@ All invoice data is stored in a **MySQL** database, enabling reliable, efficient
 For deployment, the frontend is hosted on **Netlify**, while the backend and MySQL database are deployed on **Railway**, allowing users to access the application online from anywhere without requiring any local setup.
 
 This project demonstrates full-stack web development skills, including frontend development, backend API development, authentication and authorization, database management, RESTful API integration, and cloud deployment using modern technologies.
+
+## ✨ Features
