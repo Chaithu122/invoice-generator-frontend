@@ -133,6 +133,13 @@ The footer provides branding information, copyright details, and social media li
 
 Follow these steps to set up the project locally.
 
+### 1️⃣ Clone the Repository
+
+
+```bash
+git clone https://github.com/Chaithu122/invoice-generator-frontend.git
+```
+
 
 
 
