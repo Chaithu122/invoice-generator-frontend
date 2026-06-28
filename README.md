@@ -15,3 +15,17 @@ This project demonstrates full-stack web development skills, including frontend 
 
 
 ### ✨ Features
+
+- 🔐 Secure user authentication using **Clerk Authentication**
+- 📝 Create and manage professional invoices
+- 📄 Multiple invoice templates for different layouts
+- 👤 Add customer billing and shipping information
+- 🏢 Manage company and account details
+- ➕ Add multiple invoice items dynamically
+- 🧮 Automatic tax and total amount calculation
+- 🖼️ Upload and display company logo
+- 📥 Generate and download invoices
+- 💾 Store invoice data securely in **MySQL**
+- 🔒 Secure REST APIs using **Spring Security** and JWT Authentication
+- 📱 Fully responsive user interface
+- ☁️ Cloud deployment using **Netlify** and **Railway**
