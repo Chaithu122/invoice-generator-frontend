@@ -129,6 +129,10 @@ The footer provides branding information, copyright details, and social media li
 
 <img width="1901" height="791" alt="Screenshot 2026-06-28 125140" src="https://github.com/user-attachments/assets/4bf3dcae-d125-4312-80f1-be079662a56a" />
 
+## ⚙️ Installation
+
+Follow these steps to set up the project locally.
+
 
 
 
