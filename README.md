@@ -203,7 +203,7 @@ Java Full Stack Developer
 - 💼 LinkedIn: https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/
 - 💻 GitHub: https://github.com/Chaithu122
 
-  > 💡 **Passionate about building scalable web applications and continuously learning new technologies. Open to internship and full-time opportunities to contribute, learn, and grow as a Java Full Stack Developer.**
+💡 **Passionate about building scalable web applications and continuously learning new technologies. Open to internship and full-time opportunities to contribute, learn, and grow as a Java Full Stack Developer.**
 
 
 
