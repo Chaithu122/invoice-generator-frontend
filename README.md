@@ -65,6 +65,7 @@ This project demonstrates full-stack web development skills, including frontend 
 ### 🚀 Live Demo
 
 🌐 **Live Application:** 
+
 **https://luminous-klepon-08541f.netlify.app**
 
 Click the link above to explore the application.
