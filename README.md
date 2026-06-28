@@ -29,3 +29,34 @@ This project demonstrates full-stack web development skills, including frontend 
 - ☁️ Cloud deployment using **Netlify** and **Railway**
 
 ### 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Axios
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- REST API
+- Maven
+
+### Authentication
+- Clerk Authentication
+- JWT (JSON Web Token)
+
+### Database
+- MySQL
+
+### Deployment
+- Netlify (Frontend)
+- Railway (Backend)
+- Railway MySQL (Database)
+
+### Version Control
+- Git
+- GitHub
