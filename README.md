@@ -15,7 +15,6 @@ This project demonstrates full-stack web development skills, including frontend 
 
 
 ### ✨ Features
-
 - 🔐 Secure user authentication using **Clerk Authentication**
 - 📝 Create and manage professional invoices
 - 📄 Multiple invoice templates for different layouts
