@@ -173,7 +173,8 @@ The application will be available at:
 http://localhost:5173
 ```
 
-## 📁 Project Structure
+
+### 📁 Project Structure
 
 ```
 invoice-generator-frontend/
