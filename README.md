@@ -109,6 +109,12 @@ The QuickInvoice home page provides a modern, responsive, and user-friendly inte
 <img width="1890" height="517" alt="Screenshot 2026-06-28 125038" src="https://github.com/user-attachments/assets/9185004e-ee9b-437e-91d1-38517e65a177" />
 
 
+### Footer
+
+<img width="1901" height="791" alt="Screenshot 2026-06-28 125140" src="https://github.com/user-attachments/assets/4bf3dcae-d125-4312-80f1-be079662a56a" />
+
+
+
 
 
 
