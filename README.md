@@ -76,4 +76,8 @@ Sign up with your own email account or use Clerk authentication to log in and st
 
 ## 📸 Screenshots
 
+## 🏠 Home Page
+
+The QuickInvoice home page provides a modern, responsive, and user-friendly interface that introduces the application and its core features.
+
 
