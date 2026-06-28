@@ -88,30 +88,44 @@ The landing page welcomes users with a professional interface, introducing Quick
 
 ### Get Started in 4 Simple Steps
 
+This section explains the complete invoice generation workflow in four simple steps, making the application easy to understand for first-time users.
+
 <img width="1900" height="671" alt="Screenshot 2026-06-28 124812" src="https://github.com/user-attachments/assets/a214b4ab-0ba8-429a-ad1f-00ce9e5b6211" />
 
 
 ### Why Choose QuickInvoice
+
+This section highlights the main advantages of the application, including simple invoice creation, multiple professional templates, and an easy-to-use interface.
 
 <img width="1877" height="716" alt="Screenshot 2026-06-28 124843" src="https://github.com/user-attachments/assets/0fabde7b-22d4-4e23-bc58-e579c297a054" />
 
 
 ### Beautiful Dashboard
 
+The dashboard allows users to manage all their invoices in one place. Users can create new invoices, view previously saved invoices, and organize their work efficiently.
+
+
 <img width="1890" height="617" alt="Screenshot 2026-06-28 124936" src="https://github.com/user-attachments/assets/c7901c68-489f-4d12-811e-9bdf9c679027" />
 
 
 ### Invoice Preview with Action Buttons
+
+Users can preview invoices before finalizing them. The application provides quick action buttons for saving, downloading as PDF, sending via email, or deleting invoices.
+
 
 <img width="1895" height="456" alt="Screenshot 2026-06-28 125005" src="https://github.com/user-attachments/assets/3297da56-b3d5-4648-8b15-59791befee66" />
 
 
 ### Send Invoices Instantly
 
+QuickInvoice enables users to send professional invoices directly through email without leaving the application, making the invoicing process faster and more convenient.
+
 <img width="1890" height="517" alt="Screenshot 2026-06-28 125038" src="https://github.com/user-attachments/assets/9185004e-ee9b-437e-91d1-38517e65a177" />
 
 
 ### Footer
+
+The footer provides branding information, copyright details, and social media links while maintaining a clean and professional design.
 
 <img width="1901" height="791" alt="Screenshot 2026-06-28 125140" src="https://github.com/user-attachments/assets/4bf3dcae-d125-4312-80f1-be079662a56a" />
 
