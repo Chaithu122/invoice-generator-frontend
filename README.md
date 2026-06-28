@@ -140,6 +140,39 @@ Follow these steps to set up the project locally.
 git clone https://github.com/Chaithu122/invoice-generator-frontend.git
 ```
 
+### 2️⃣ Navigate to the Project Directory
+
+```bash
+cd invoice-generator-frontend
+```
+
+### 3️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 4️⃣ Configure Environment Variables
+
+Create a `.env` file in the project root and add the required environment variables.
+
+```env
+VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+VITE_BACKEND_URL=https://invoice-generator-backend-production-fc42.up.railway.app/api
+```
+
+### 5️⃣ Run the Development Server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173
+```
+
 
 
 
